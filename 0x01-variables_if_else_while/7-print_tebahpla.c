@@ -3,7 +3,9 @@
 /*
  * main - entry point
  *
- * Return 0
+ * Description: use putchar to print all alphabet in reverse
+ *
+ * Return: 0
  *
  */
 
