@@ -5,7 +5,7 @@
  *
  * Description: use putchar to print all alphabet in reverse
  *
- * Return: 0
+ * Return: Always 0
  *
  */
 
