@@ -1,14 +1,9 @@
 #include <stdio.h>
-
-/*
+/**
  * main - main block
- *
- * Description : use putchar to print all alphabet in reverse
- *
- * Return : Always 0
- *
+ * Description: Print the alphabet in reverse order in lowercase.
+ * Return: 0
  */
-
 int main(void)
 {
 	char c;
