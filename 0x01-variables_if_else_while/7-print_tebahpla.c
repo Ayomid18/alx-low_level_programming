@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /*
- * main - entry point
+ * main - main block
  *
  * Description: use putchar to print all alphabet in reverse
  *
