@@ -3,9 +3,9 @@
 /*
  * main - main block
  *
- * Description: use putchar to print all alphabet in reverse
+ * Description : use putchar to print all alphabet in reverse
  *
- * Return: Always 0
+ * Return : Always 0
  *
  */
 
