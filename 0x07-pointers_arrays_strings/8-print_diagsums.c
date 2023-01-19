@@ -1,4 +1,3 @@
-#include "main.h"
 #include <stdio.h>
 
 /**
@@ -29,53 +28,3 @@ void print_diagsums(int *a, int size)
 
 	printf("%i, %i\n", sum1, sum2);
 }
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-"8-print_diagsums.c" [New File]                                                                                                                                              0,0-1         All
-
